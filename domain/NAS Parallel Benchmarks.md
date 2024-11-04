@@ -12,5 +12,4 @@
 - Bailey, D.; Harris, T.; Saphir, W.; van der Wijngaart, R.; Woo, A.; Yarrow, M. (December 1995), "[The NAS Parallel Benchmarks 2.0](https://web.archive.org/web/20110927034139/http://www.nas.nasa.gov/News/Techreports/1995/PDF/nas-95-020.pdf)", NAS Technical Report NAS-95-020, NASA Ames Research Center, Moffett Field, CA.
 
 ## Официальный сайт
-
 https://www.nas.nasa.gov/software/npb.html
