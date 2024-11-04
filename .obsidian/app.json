@@ -1,1 +1,9 @@
-{}
+{
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "system",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "attachments"
+}
