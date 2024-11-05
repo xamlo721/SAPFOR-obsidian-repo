@@ -1,0 +1,1 @@
+_MIMD(Multiple Instruction Multiple Data_ - Множественный поток Инструкций, Множественный поток Данных

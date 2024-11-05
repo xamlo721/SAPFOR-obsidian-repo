@@ -1,0 +1,1 @@
+_SPMD(Single Program Multiple Data_ - Одна Программа, Множественный поток Данных)
