@@ -1,0 +1,9 @@
+
+Зависимости:
+- [[24 CALL_GRAPH2]]
+- [[72 CONVERT_LOOP_TO_ASSIGN]]
+- [[63 REVERT_SUBST_EXPR_RD]]
+- [[73 RESTORE_LOOP_FROM_ASSIGN]]
+
+
+

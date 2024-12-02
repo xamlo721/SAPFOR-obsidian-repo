@@ -1,0 +1,7 @@
+
+Зависимости:
+- [[41 FIND_FUNC_TO_INCLUDE]]
+- [[124 PRIVATE_ANALYSIS_IR]]
+- [[24 CALL_GRAPH2]]
+
+
