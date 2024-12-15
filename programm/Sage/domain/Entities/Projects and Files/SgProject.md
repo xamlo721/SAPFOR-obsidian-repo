@@ -126,4 +126,22 @@ int main (int argc, char **argv) {
 }
 ```
 
+[[2 Restructure - addStuffToProgram]]
+[[1 Restructure - main]]
+[[2 Instrument - InitSymbols]]
+[[3 Instrument - InitFunctionTable]]
+[[7 Instrument - FInitialize]]
+[[9 Instrument - ProjectUnparse]]
+[[12 Instrument - FAnalyze]]
+[[22 Instrument - CAnalyze]]
+[[23 Instrument - CInitSymbols]]
+[[24 Instrument - CInitialize]]
+[[28 Instrument - OpenProject]]
+[[9 Expand Syntax - CAnalyze]]
+[[10 Expand Syntax - ProjectUnparse]]
+[[11 Expand Syntax - main]]
+[[10 Expand Syntax - ProjectUnparse]]
+[[11 Expand Syntax - main]]
+
 Ссылки: [[SgFile]]
+

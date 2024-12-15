@@ -362,10 +362,30 @@ void traverseFile(SgFile *f) {
 }
 ```
 
-
-
-
-
+Примеры использования:
+[[2 Restructure - addStuffToProgram]]
+[[1 Restructure - main]]
+[[2 Instrument - InitSymbols]]
+[[3 Instrument - InitFunctionTable]]
+[[9 Instrument - ProjectUnparse]]
+[[12 Instrument - FAnalyze]]
+[[19 Instrument - ListCollections]]
+[[20 Instrument - ListCollectionInstances]]
+[[21 Instrument - ListCollectionInvocations]]
+[[22 Instrument - CAnalyze]]
+[[23 Instrument - CInitSymbols]]
+[[29 Instrument - IsFortran]]
+[[30 Instrument - IsC]]
+[[3 Expand Syntax - ExpandSyntax]]
+[[8 Expand Syntax - Init]]
+[[9 Expand Syntax - CAnalyze]]
+[[10 Expand Syntax - ProjectUnparse]]
+[[11 Expand Syntax - main]]
+[[2 Dump Info - ProjectUnparse]]
+[[3 Dump Info - classifyStatements]]
+[[13 Dump Info - classifyExpressions]]
+[[14 Dump Info - classifySymbols]]
+[[15 Dump Info - main]]
 
 
 

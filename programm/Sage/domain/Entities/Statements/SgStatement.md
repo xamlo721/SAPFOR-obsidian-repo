@@ -555,3 +555,33 @@ void UnrollLoops(SgFile *file, int unroll_factor){
      }
  }
 ```
+
+Примеры использования:
+[[2 Restructure - addStuffToProgram]]
+[[3 Instrument - InitFunctionTable]]
+[[4 Instrument - InsertFCallNode]]
+[[5 Instrument - FixLoops]]
+[[6 Instrument - FInstrumentSub]]
+[[8 Instrument - FInstrument]]
+[[10 Instrument - UnparseSub]]
+[[11 Instrument - VistaInstrument]]
+[[12 Instrument - FAnalyze]]
+[[16 Instrument - inMethodOfTheElement]]
+[[17 Instrument - whichFunctionAmI]]
+[[18 Instrument - isReferenceToCollection]]
+[[19 Instrument - ListCollections]]
+[[20 Instrument - ListCollectionInstances]]
+[[21 Instrument - ListCollectionInvocations]]
+[[25 Instrument - InsertCCallNode]]
+[[26 Instrument - CTimingInstrumentSub]]
+[[4 Expand Syntax - SearchInExpForCollectionArrayRef]]
+[[5 Expand Syntax - ReplaceWithGetElemPart]]
+[[8 Expand Syntax - Init]]
+[[3 Dump Info - classifyStatements]]
+[[4 Dump Info - doRoutineHeader]]
+[[5 Dump Info - doIfStmts]]
+[[6 Dump Info - doLoopStmts]]
+[[7 Dump Info - doIOStmts]]
+[[8 Dump Info - doGoToStmt]]
+[[9 Dump Info - doVarDecl]]
+
