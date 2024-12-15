@@ -12,7 +12,7 @@ pC++:
 Fortran:
 - [[SgProgHedrStmt]]
 - [[SgProcHedrStmt]]
-- SgBlockDataStmt
+- [[SgBlockDataStmt]]
 Fortran 90:
-- SgModuleStmt
-- SgInterfaceStmt
+- [[SgModuleStmt]]
+- [[SgInterfaceStmt]]
