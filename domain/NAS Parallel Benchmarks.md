@@ -1,4 +1,4 @@
-**NAS Parallel Benchmarks** — набор тестов производительности нацеленных на проверку возможностей высокопараллельных [суперкомпьютеров]. Они были разработаны в начале 1990-х годов в рамках программы NASA Numerical Aerodynamic Simulation Program[[1]](https://ru.wikipedia.org/wiki/NAS_Parallel_Benchmarks#cite_note-nas-par-2007-nglu-1) и поддерживаются в NASA Advanced Supercomputing (NAS) Division, расположенном в [NASA Ames Research Center](https://ru.wikipedia.org/wiki/NASA_Ames_Research_Center "NASA Ames Research Center").
+**NAS Parallel Benchmarks** — набор тестов производительности нацеленных на проверку возможностей высокопараллельных [суперкомпьютеров]. Они были разработаны в начале 1990-х годов в рамках программы NASA Numerical Aerodynamic Simulation Program[[0 Restructure declare]](https://ru.wikipedia.org/wiki/NAS_Parallel_Benchmarks#cite_note-nas-par-2007-nglu-1) и поддерживаются в NASA Advanced Supercomputing (NAS) Division, расположенном в [NASA Ames Research Center](https://ru.wikipedia.org/wiki/NASA_Ames_Research_Center "NASA Ames Research Center").
 
 В версии 3.3 пакет NPB 3.3 включает в себя 11 тестов.
 
