@@ -585,3 +585,8 @@ void UnrollLoops(SgFile *file, int unroll_factor){
 [[8 Dump Info - doGoToStmt]]
 [[9 Dump Info - doVarDecl]]
 
+Так же выделяют 4 вида наследников SgStatement:
+[[Header Statements]]
+[[Declaration Statements]]
+[[Control Statements]]
+[[Executable and Other Statements]]
